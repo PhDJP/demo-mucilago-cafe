@@ -4,8 +4,8 @@ requires-python = "==3.12.*"
 
 [[package]]
 name = "agentresearch"
-version = "0.1.0rc1"
-source = { git = "https://github.com/PhDJP/agentresearch?rev=v0.1.0rc1#9b46aef36f9bc773d1a292b0ad19295f7ecac4d2" }
+version = "0.1.0rc2"
+source = { git = "https://github.com/PhDJP/agentresearch?rev=v0.1.0rc2#e7ca809fbc3d94dce55e01317ef761926ccf5178" }
 dependencies = [
     { name = "pydantic" },
     { name = "ruamel-yaml" },
@@ -29,7 +29,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "agentresearch", git = "https://github.com/PhDJP/agentresearch?rev=v0.1.0rc1" }]
+requires-dist = [{ name = "agentresearch", git = "https://github.com/PhDJP/agentresearch?rev=v0.1.0rc2" }]
 
 [[package]]
 name = "pydantic"

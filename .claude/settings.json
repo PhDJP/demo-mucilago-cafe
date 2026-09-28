@@ -26,10 +26,16 @@
       "Bash(*agentresearch protocolo decision confirmar*)",
       "PowerShell(*agentresearch protocolo aprobar*)",
       "PowerShell(*agentresearch protocolo decision confirmar*)",
+      "Bash(*agentresearch estudio actualizar*)",
+      "PowerShell(*agentresearch estudio actualizar*)",
       "Edit(/protocolo/**)",
       "Edit(/estudio.yaml)",
       "Edit(/CLAUDE.md)",
-      "Edit(/.claude/**)"
+      "Edit(/.claude/**)",
+      "Edit(/pyproject.toml)",
+      "Edit(/uv.lock)",
+      "Read(/.env)",
+      "Read(/.env.*)"
     ]
   }
 }
