@@ -5,7 +5,7 @@ version = "0.0.0"
 description = "Datos y evidencia de un estudio de mapeo sistemático conducido con agentresearch."
 requires-python = ">=3.12,<3.13"
 dependencies = [
-    "agentresearch @ git+https://github.com/PhDJP/agentresearch@v0.1.0rc2",
+    "agentresearch @ git+https://github.com/PhDJP/agentresearch@v0.1.0",
 ]
 
 [tool.uv]

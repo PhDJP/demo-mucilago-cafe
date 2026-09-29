@@ -5,7 +5,7 @@ nombre: demo-mucilago-cafe
 titulo: "Mucílago de café: obtención, caracterización y usos (estudio de demostración)"
 fecha_creacion: "2026-09-27"
 agente:
-  version: "0.1.0rc2"
-  fuente: git+https://github.com/PhDJP/agentresearch@v0.1.0rc2
+  version: "0.1.0"
+  fuente: git+https://github.com/PhDJP/agentresearch@v0.1.0
 modelo: claude-opus-5-5
 licencia_datos: CC-BY-4.0
