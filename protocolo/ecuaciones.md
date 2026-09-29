@@ -3,8 +3,8 @@
 Generado por agentresearch a partir del protocolo; no lo edite a mano. Regenérelo con `agentresearch protocolo ecuaciones --escribir` después de aprobar o enmendar el protocolo (ADR-0009).
 
 - Protocolo: protocolo/protocolo.yaml
-- Versión del protocolo: 1.0.0 (vigente)
-- Hash del protocolo: sha256:9fa7fe02445b448d334b231c5c54465cd8077519158efe3206a0920f83c626fd
+- Versión del protocolo: 1.1.0 (vigente)
+- Hash del protocolo: sha256:35e07f936a24ba9925470a24e131cd3eb8c738b525f8741b93b001c565c96ca5
 - Versión del agente: 0.1.0rc2
 - Fuentes bloqueadas: ninguna
 
